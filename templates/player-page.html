@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Player Information</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="container" >
+    <div class="row">
+      <div class="col-md-4">
+        <p>
+          <h3 class="text-center">
+            <p><b>List of players with the search</b></p>
+          </h3>
+        </p>
+      </div>
+    </div>
+    </br>
+      <div class="row">
+        <ul>
+        {% for player in player_data%}
+          <li> 
+            <b>Name: </b>{{player.name}} </br>
+            <ul>
+              Club: {{player.club}} </br> Age: {{player.age}} </br>
+              Market Value (in millions of pounds): {{player.mkt_value}}</br>
+              Click on <a href="{{player.player_info}}" target="_blank"> Player_info </a> for more information</br>
+              Download Image: <a href="{{player.full_image_url}}" target="_blank"> Here</a></br>
+            </ul>
+          {% endfor %}
+        </ul>
+      </div>
+        
+      </div>
+  </div>
+</div>
+</body>
+
+</html>

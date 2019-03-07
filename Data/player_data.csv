@@ -1,0 +1,462 @@
+,Name,Club,Age,Market Value,Nationality
+0,Alexis Sanchez,Arsenal,28,65.0,Chile
+1,Mesut Ozil,Arsenal,28,50.0,Germany
+2,Petr Cech,Arsenal,35,7.0,Czech Republic
+3,Theo Walcott,Arsenal,28,20.0,England
+4,Laurent Koscielny,Arsenal,31,22.0,France
+5,Hector Bellerin,Arsenal,22,30.0,Spain
+6,Olivier Giroud,Arsenal,30,22.0,France
+7,Nacho Monreal,Arsenal,31,13.0,Spain
+8,Shkodran Mustafi,Arsenal,25,30.0,Germany
+9,Alex Iwobi,Arsenal,21,10.0,Nigeria
+10,Granit Xhaka,Arsenal,24,35.0,Switzerland
+11,Alex Oxlade-Chamberlain,Arsenal,23,22.0,England
+12,Jack Wilshere,Arsenal,25,18.0,England
+13,Aaron Ramsey,Arsenal,26,35.0,Wales
+14,Francis Coquelin,Arsenal,26,15.0,France
+15,Gabriel Paulista,Arsenal,26,13.0,Brazil
+16,Kieran Gibbs,Arsenal,27,10.0,England
+17,Santi Cazorla,Arsenal,32,12.0,Spain
+18,Danny Welbeck,Arsenal,26,15.0,England
+19,Rob Holding,Arsenal,21,7.0,England
+20,Mohamed Elneny,Arsenal,25,10.0,Egypt
+21,Lucas Perez,Arsenal,28,15.0,Spain
+22,Emiliano Martinez,Arsenal,24,1.0,Argentina
+23,David Ospina,Arsenal,28,7.0,Colombia
+24,Carl Jenkinson,Arsenal,25,5.0,England
+25,Per Mertesacker,Arsenal,32,6.0,Germany
+26,Sead Kolasinac,Arsenal,24,15.0,Bosnia
+27,Alexandre Lacazette,Arsenal,26,40.0,France
+28,Joshua King,Bournemouth,25,8.0,Norway
+29,Jermain Defoe,Bournemouth,34,5.0,England
+30,Charlie Daniels,Bournemouth,30,3.0,England
+31,Artur Boruc,Bournemouth,37,1.0,Poland
+32,Steve Cook,Bournemouth,26,5.0,England
+33,Junior Stanislas,Bournemouth,27,4.5,England
+34,Adam Smith,Bournemouth,26,5.0,England
+35,Ryan Fraser,Bournemouth,23,5.0,Scotland
+36,Simon Francis,Bournemouth,32,2.5,England
+37,Benik Afobe,Bournemouth,24,10.0,Congo DR
+38,Harry Arter,Bournemouth,27,2.5,Ireland
+39,Marc Pugh,Bournemouth,30,2.0,England
+40,Callum Wilson,Bournemouth,25,10.0,England
+41,Nathan Ake,Bournemouth,22,8.0,Netherlands
+42,Dan Gosling,Bournemouth,27,3.0,England
+43,Andrew Surman,Bournemouth,30,2.0,England
+44,Jordon Ibe,Bournemouth,21,8.0,England
+45,Lewis Cook,Bournemouth,20,6.0,England
+46,Lys Mousset,Bournemouth,21,4.0,France
+47,Adam Federici,Bournemouth,32,1.0,Australia
+48,Max Gradel,Bournemouth,29,7.0,Cote d'Ivoire
+49,Tyrone Mings,Bournemouth,24,5.0,England
+50,Brad Smith,Bournemouth,23,2.0,Australia
+51,Asmir Begovic,Bournemouth,30,8.0,Bosnia
+52,Niki Maenpaa,Brighton+and+Hove,32,0.25,Finland
+53,Mathew Ryan,Brighton+and+Hove,25,3.5,Australia
+54,Lewis Dunk,Brighton+and+Hove,25,5.0,England
+55,Shane Duffy,Brighton+and+Hove,25,5.0,Ireland
+56,Uwe Hunemeier,Brighton+and+Hove,31,1.5,Germany
+57,Bruno,Brighton+and+Hove,36,0.5,Argentina
+58,Gaetan Bong,Brighton+and+Hove,29,1.5,Cameroon
+59,Liam Rosenior,Brighton+and+Hove,33,1.0,England
+60,Connor Goldson,Brighton+and+Hove,24,0.75,England
+61,Markus Suttner,Brighton+and+Hove,30,2.0,Austria
+62,Anthony Knockaert,Brighton+and+Hove,25,8.0,France
+63,Dale Stephens,Brighton+and+Hove,27,5.0,England
+64,Beram Kayal,Brighton+and+Hove,29,1.25,Israel
+65,Steve Sidwell,Brighton+and+Hove,34,1.0,England
+66,Solly March,Brighton+and+Hove,23,0.5,England
+67,Jiri Skalak,Brighton+and+Hove,25,1.5,Czech Republic
+68,Oliver Norwood,Brighton+and+Hove,26,2.5,Northern Ireland
+69,Jamie Murphy,Brighton+and+Hove,27,1.75,Scotland
+70,Pascal Gross,Brighton+and+Hove,26,4.0,Germany
+71,Glenn Murray,Brighton+and+Hove,33,3.5,England
+72,Tomer Hemed,Brighton+and+Hove,30,2.5,Israel
+73,Sam Baldock,Brighton+and+Hove,28,3.0,England
+74,Tom Heaton,Burnley,31,4.0,England
+75,Sam Vokes,Burnley,27,4.5,Wales
+76,Andre Gray,Burnley,26,10.0,England
+77,Ben Mee,Burnley,27,6.0,England
+78,Stephen Ward,Burnley,31,1.5,Ireland
+79,Matthew Lowton,Burnley,28,2.5,England
+80,Ashley Barnes,Burnley,27,2.5,England
+81,Jeff Hendrick,Burnley,25,6.0,Ireland
+82,Scott Arfield,Burnley,28,3.0,Canada
+83,Steven Defour,Burnley,29,6.0,Belgium
+84,Dean Marney,Burnley,33,1.0,England
+85,Jack Cork,Burnley,28,5.0,England
+86,Johann Berg Gudmundsson,Burnley,26,2.5,Iceland
+87,Robbie Brady,Burnley,25,10.0,Ireland
+88,James Tarkowski,Burnley,24,2.0,England
+89,Ashley Westwood,Burnley,27,4.0,England
+90,Kevin Long,Burnley,26,0.5,Ireland
+91,Matthew Taylor,Burnley,35,0.25,England
+92,Eden Hazard,Chelsea,26,75.0,Belgium
+93,Diego Costa,Chelsea,28,50.0,Spain
+94,Gary Cahill,Chelsea,31,16.0,England
+95,Marcos Alonso Mendoza,Chelsea,26,25.0,Spain
+96,Cesar Azpilicueta,Chelsea,27,30.0,Spain
+97,Pedro,Chelsea,29,28.0,Spain
+98,Thibaut Courtois,Chelsea,25,40.0,Belgium
+99,David Luiz,Chelsea,30,30.0,Brazil
+100,Cesc Fabregas,Chelsea,30,35.0,Spain
+101,Willian,Chelsea,28,32.0,Brazil
+102,Victor Moses,Chelsea,26,18.0,Nigeria
+103,Nemanja Matic,Chelsea,28,35.0,Serbia
+104,N%27Golo Kante,Chelsea,26,50.0,France
+105,Willy Caballero,Chelsea,35,1.5,Argentina
+106,Michy Batshuayi,Chelsea,23,25.0,Belgium
+107,Kurt Zouma,Chelsea,22,15.0,France
+108,Kenedy,Chelsea,21,7.0,Brazil
+109,Eduardo Carvalho,Chelsea,34,0.05,Portugal
+110,Antonio Rudiger,Chelsea,24,25.0,Germany
+111,Tiemoue Bakayoko,Chelsea,22,16.0,France
+112,Wilfried Zaha,Crystal+Palace,24,18.0,Cote d'Ivoire
+113,Christian Benteke,Crystal+Palace,26,28.0,Belgium
+114,Andros Townsend,Crystal+Palace,26,12.0,England
+115,Patrick van Aanholt,Crystal+Palace,26,9.0,Netherlands
+116,James McArthur,Crystal+Palace,29,7.0,Scotland
+117,Wayne Hennessey,Crystal+Palace,30,4.0,Wales
+118,Jason Puncheon,Crystal+Palace,31,5.5,England
+119,Yohan Cabaye,Crystal+Palace,31,15.0,France
+120,Joel Ward,Crystal+Palace,27,5.0,England
+121,James Tomkins,Crystal+Palace,28,7.0,England
+122,Scott Dann,Crystal+Palace,30,5.0,England
+123,Damien Delaney,Crystal+Palace,36,1.0,Ireland
+124,Jeffrey Schlupp,Crystal+Palace,24,8.0,Ghana
+125,Martin Kelly,Crystal+Palace,27,3.0,England
+126,Luka Milivojevic,Crystal+Palace,26,10.0,Serbia
+127,Lee Chung-yong,Crystal+Palace,29,1.5,South Korea
+128,Connor Wickham,Crystal+Palace,24,6.0,England
+129,Bakary Sako,Crystal+Palace,29,6.0,Mali
+130,Pape Souare,Crystal+Palace,27,6.0,Senegal
+131,Ruben Loftus-Cheek,Crystal+Palace,21,5.0,England
+132,Julian Speroni,Crystal+Palace,38,0.25,Argentina
+133,Ross Barkley,Everton,23,25.0,England
+134,Leighton Baines,Everton,32,12.0,England
+135,Seamus Coleman,Everton,28,17.0,Ireland
+136,Ashley Williams,Everton,32,8.0,Wales
+137,Kevin Mirallas,Everton,29,13.0,Belgium
+138,Michael Keane,Everton,24,18.0,England
+139,Phil Jagielka,Everton,34,2.0,England
+140,Jordan Pickford,Everton,23,15.0,England
+141,Joel Robles,Everton,27,5.0,Spain
+142,Idrissa Gueye,Everton,27,18.0,Senegal
+143,Wayne Rooney,Everton,31,15.0,England
+144,Ramiro Funes Mori,Everton,26,12.0,Argentina
+145,Maarten Stekelenburg,Everton,34,2.0,Netherlands
+146,Gareth Barry,Everton,36,1.5,England
+147,Tom Davies,Everton,19,8.0,England
+148,Mason Holgate,Everton,20,5.0,England
+149,Yannick Bolasie,Everton,28,20.0,Congo DR
+150,Morgan Schneiderlin,Everton,27,22.0,France
+151,Cuco Martina,Everton,27,2.0,Curacao
+152,James McCarthy,Everton,26,15.0,Ireland
+153,Aaron Lennon,Everton,30,5.0,England
+154,Dominic Calvert-Lewin,Everton,20,3.5,England
+155,Ademola Lookman,Everton,19,5.0,England
+156,Matthew Pennington,Everton,22,0.5,England
+157,Jonjoe Kenny,Everton,20,0.25,England
+158,Muhamed Besic,Everton,24,5.0,Germany
+159,Davy Klaassen,Everton,24,18.0,Netherlands
+160,Sandro Ramirez,Everton,22,10.0,Spain
+161,Joel Coleman,Huddersfield,21,0.25,England
+162,Jonas Lossl,Huddersfield,28,1.5,Denmark
+163,Christopher Schindler,Huddersfield,27,2.0,Germany
+164,Chris Lowe,Huddersfield,28,1.5,Germany
+165,Tommy Smith,Huddersfield,25,2.0,England
+166,Michael Hefele,Huddersfield,26,1.5,Germany
+167,Martin Cranie,Huddersfield,30,0.5,England
+168,Jon Gorenc Stankovic,Huddersfield,21,0.5,Slovenia
+169,Mark Hudson,Huddersfield,35,0.5,England
+170,Mathias Jorgensen,Huddersfield,27,2.5,Denmark
+171,Scott Malone,Huddersfield,26,0.75,England
+172,Aaron Mooy,Huddersfield,26,5.0,Australia
+173,Rajiv van La Parra,Huddersfield,26,2.0,Netherlands
+174,Jonathan Hogg,Huddersfield,28,1.0,England
+175,Philip Billing,Huddersfield,21,0.5,Denmark
+176,Joe Lolley,Huddersfield,24,0.25,England
+177,Jack Payne,Huddersfield,25,0.25,England
+178,Dean Whitehead,Huddersfield,35,0.25,England
+179,Harry Bunn,Huddersfield,24,0.5,England
+180,Sean Scannell,Huddersfield,26,0.5,Ireland
+181,Elias Kachunga,Huddersfield,25,3.5,Congo DR
+182,Tom Ince,Huddersfield,25,7.0,England
+183,Kasey Palmer,Huddersfield,20,0.75,England
+184,Andy Williams,Huddersfield,26,0.65,Trinidad and Tobago
+185,Nahki Wells,Huddersfield,27,5.0,Bermuda
+186,Collin Quaner,Huddersfield,26,1.0,Germany
+187,Laurent Depoitre,Huddersfield,28,3.0,Belgium
+188,Steve Mounie,Huddersfield,22,5.5,Benin
+189,Jamie Vardy,Leicester+City,30,15.0,England
+190,Riyad Mahrez,Leicester+City,26,30.0,Algeria
+191,Kasper Schmeichel,Leicester+City,30,10.0,Denmark
+192,Christian Fuchs,Leicester+City,31,6.0,Austria
+193,Marc Albrighton,Leicester+City,27,6.0,England
+194,Robert Huth,Leicester+City,32,5.0,Germany
+195,Danny Simpson,Leicester+City,30,5.0,England
+196,Islam Slimani,Leicester+City,29,25.0,Algeria
+197,Harry Maguire,Leicester+City,24,8.0,England
+198,Danny Drinkwater,Leicester+City,27,9.0,England
+199,Wes Morgan,Leicester+City,33,3.0,Jamaica
+200,Shinji Okazaki,Leicester+City,31,7.0,Japan
+201,Wilfred Ndidi,Leicester+City,20,14.0,Nigeria
+202,Demarai Gray,Leicester+City,21,9.0,England
+203,Daniel Amartey,Leicester+City,22,5.0,Ghana
+204,Andy King,Leicester+City,28,3.0,Wales
+205,Ahmed Musa,Leicester+City,24,17.0,Nigeria
+206,Yohan Benalouane,Leicester+City,30,1.0,Tunisia
+207,Leonardo Ulloa,Leicester+City,30,6.0,Argentina
+208,Ben Chilwell,Leicester+City,20,2.5,England
+209,Nampalys Mendy,Leicester+City,25,10.0,France
+210,Ben Hamer,Leicester+City,29,0.5,England
+211,Molla Wague,Leicester+City,26,1.5,Mali
+212,Vicente Iborra,Leicester+City,29,9.0,Spain
+213,Roberto Firmino,Liverpool,25,38.0,Brazil
+214,Philippe Coutinho,Liverpool,25,45.0,Brazil
+215,Sadio Mane,Liverpool,25,40.0,Senegal
+216,Georginio Wijnaldum,Liverpool,26,28.0,Netherlands
+217,James Milner,Liverpool,31,12.0,England
+218,Adam Lallana,Liverpool,29,25.0,England
+219,Nathaniel Clyne,Liverpool,26,21.0,England
+220,Simon Mignolet,Liverpool,29,12.0,Belgium
+221,Dejan Lovren,Liverpool,28,17.0,Croatia
+222,Emre Can,Liverpool,23,15.0,Germany
+223,Joel Matip,Liverpool,25,25.0,Cameroon
+224,Divock Origi,Liverpool,22,12.0,Belgium
+225,Jordan Henderson,Liverpool,27,28.0,England
+226,Daniel Sturridge,Liverpool,27,20.0,England
+227,Lucas Leiva,Liverpool,30,7.0,Brazil
+228,Ragnar Klavan,Liverpool,31,3.5,Estonia
+229,Mamadou Sakho,Liverpool,27,15.0,France
+230,Loris Karius,Liverpool,24,8.0,Germany
+231,Trent Alexander-Arnold,Liverpool,18,1.5,England
+232,Alberto Moreno,Liverpool,25,10.0,Spain
+233,Ben Woodburn,Liverpool,17,1.5,Wales
+234,Marko Grujic,Liverpool,21,5.0,Serbia
+235,Joe Gomez,Liverpool,20,4.0,England
+236,Sheyi Ojo,Liverpool,20,2.0,England
+237,Mohamed Salah,Liverpool,25,35.0,Egypt
+238,Danny Ings,Liverpool,24,8.0,England
+239,Dominic Solanke,Liverpool,19,2.0,England
+240,Kevin De Bruyne,Manchester+City,26,65.0,Belgium
+241,Sergio Aguero,Manchester+City,29,65.0,Argentina
+242,Raheem Sterling,Manchester+City,22,45.0,England
+243,Kyle Walker,Manchester+City,27,30.0,England
+244,David Silva,Manchester+City,31,30.0,Spain
+245,Leroy Sane,Manchester+City,21,35.0,Germany
+246,Nicolas Otamendi,Manchester+City,29,30.0,Argentina
+247,Aleksandar Kolarov,Manchester+City,31,10.0,Serbia
+248,Yaya Toure,Manchester+City,34,8.0,Cote d'Ivoire
+249,Fernandinho,Manchester+City,32,18.0,Brazil
+250,Claudio Bravo,Manchester+City,34,8.0,Chile
+251,Gabriel Jesus,Manchester+City,20,30.0,Brazil
+252,John Stones,Manchester+City,23,35.0,England
+253,Vincent Kompany,Manchester+City,31,22.0,Belgium
+254,Kelechi Iheanacho,Manchester+City,20,15.0,Nigeria
+255,Ilkay Gundogan,Manchester+City,26,30.0,Germany
+256,Fernando,Manchester+City,32,18.0,Brazil
+257,Fabian Delph,Manchester+City,27,8.0,England
+258,Ederson Moraes,Manchester+City,23,22.0,Brazil
+259,Bernardo Silva,Manchester+City,22,40.0,Portugal
+260,Romelu Lukaku,Manchester+United,24,50.0,Belgium
+261,David de Gea,Manchester+United,26,40.0,Spain
+262,Antonio Valencia,Manchester+United,31,10.0,Ecuador
+263,Paul Pogba,Manchester+United,24,75.0,France
+264,Eric Bailly,Manchester+United,23,30.0,Cote d'Ivoire
+265,Juan Mata,Manchester+United,29,30.0,Spain
+266,Daley Blind,Manchester+United,27,22.0,Netherlands
+267,Ander Herrera,Manchester+United,27,30.0,Spain
+268,Anthony Martial,Manchester+United,21,30.0,France
+269,Marcos Rojo,Manchester+United,27,18.0,Argentina
+270,Marcus Rashford,Manchester+United,19,18.0,England
+271,Henrikh Mkhitaryan,Manchester+United,28,35.0,Armenia
+272,Matteo Darmian,Manchester+United,27,12.0,Italy
+273,Jesse Lingard,Manchester+United,24,12.0,England
+274,Phil Jones,Manchester+United,25,14.0,England
+275,Chris Smalling,Manchester+United,27,18.0,England
+276,Marouane Fellaini,Manchester+United,29,12.0,Belgium
+277,Luke Shaw,Manchester+United,22,20.0,England
+278,Michael Carrick,Manchester+United,35,1.5,England
+279,Ashley Young,Manchester+United,32,5.0,England
+280,Sergio Romero,Manchester+United,30,6.0,Argentina
+281,Axel Tuanzebe,Manchester+United,19,1.0,England
+282,Timothy Fosu-Mensah,Manchester+United,19,2.5,Netherlands
+283,Joel Castro Pereira,Manchester+United,21,0.1,Portugal
+284,Victor Lindelof,Manchester+United,23,22.0,Sweden
+285,Rob Elliot,Newcastle+United,31,1.0,Ireland
+286,Karl Darlow,Newcastle+United,26,4.5,England
+287,DeAndre Yedlin,Newcastle+United,24,5.0,United States
+288,Ciaran Clark,Newcastle+United,27,5.0,Ireland
+289,Lascelles,Newcastle+United,27,5.0,England
+290,Paul Dummett,Newcastle+United,25,3.5,Wales
+291,Grant Hanley,Newcastle+United,25,4.5,Scotland
+292,Jesus Gamez,Newcastle+United,32,2.5,Spain
+293,Florian Lejeune,Newcastle+United,26,5.0,France
+294,Massadio Haidara,Newcastle+United,24,1.5,France
+295,Matt Ritchie,Newcastle+United,27,9.0,Scotland
+296,Jonjo Shelvey,Newcastle+United,25,11.0,England
+297,Mohamed Diame,Newcastle+United,30,6.0,Senegal
+298,Jack Colback,Newcastle+United,27,5.0,England
+299,Christian Atsu,Newcastle+United,25,5.0,Ghana
+300,Siem de Jong,Newcastle+United,28,5.5,Netherlands
+301,Rolando Aarons,Newcastle+United,21,0.75,England
+302,Dwight Gayle,Newcastle+United,26,10.0,England
+303,Ayoze Perez,Newcastle+United,23,8.0,Spain
+304,Aleksandar Mitrovic,Newcastle+United,22,10.0,Serbia
+305,Daryl Murphy,Newcastle+United,34,1.5,Ireland
+306,Fraser Forster,Southampton,29,15.0,England
+307,Nathan Redmond,Southampton,23,15.0,England
+308,Ryan Bertrand,Southampton,27,20.0,England
+309,DuÅ¡an TadiÄ‡,Southampton,28,17.0,Portugal
+310,Cedric Soares,Southampton,25,15.0,Portugal
+311,James Ward-Prowse,Southampton,22,15.0,England
+312,Oriol Romeu,Southampton,25,10.0,Spain
+313,Maya Yoshida,Southampton,28,5.0,Japan
+314,Steven Davis,Southampton,32,6.0,Northern Ireland
+315,Virgil van Dijk,Southampton,26,30.0,Netherlands
+316,Charlie Austin,Southampton,28,13.0,England
+317,Jack Stephens,Southampton,23,3.5,England
+318,Shane Long,Southampton,30,9.0,Ireland
+319,Sofiane Boufal,Southampton,23,15.0,Morocco
+320,Jordy Clasie,Southampton,26,10.0,Netherlands
+321,Pierre-Emile Hojbjerg,Southampton,21,8.0,Denmark
+322,Manolo Gabbiadini,Southampton,25,15.0,Italy
+323,Sam McQueen,Southampton,22,0.75,England
+324,Matt Targett,Southampton,21,3.0,England
+325,Josh Sims,Southampton,20,0.5,England
+326,Jeremy Pied,Southampton,28,3.5,France
+327,Jason McCarthy,Southampton,21,0.25,England
+328,Jan Bednarek,Southampton,21,0.5,Poland
+329,Joe Allen,Stoke+City,27,15.0,Wales
+330,Marko ArnautoviÄ‡,Stoke+City,28,15.0,England
+331,Lee Grant,Stoke+City,34,1.0,England
+332,Erik Pieters,Stoke+City,28,7.0,Netherlands
+333,Steven Fletcher,Stoke+City,30,3.0,Scotland
+334,Ryan Shawcross,Stoke+City,29,11.0,England
+335,Xherdan Shaqiri,Stoke+City,25,15.0,Switzerland
+336,Peter Crouch,Stoke+City,36,1.5,England
+337,Glenn Whelan,Stoke+City,33,2.5,Ireland
+338,Charlie Adam,Stoke+City,31,3.5,Scotland
+339,Geoff Cameron,Stoke+City,32,3.0,United States
+340,Glen Johnson,Stoke+City,32,5.0,England
+341,Mame Biram Diouf,Stoke+City,29,7.0,Senegal
+342,Ramadan Sobhi,Stoke+City,20,5.0,Egypt
+343,Marc Muniesa,Stoke+City,25,3.0,Spain
+344,Bojan KrkiÄ‡,Stoke+City,26,5.0,Spain
+345,Phil Bardsley,Stoke+City,32,1.5,Scotland
+346,Saido Berahino,Stoke+City,23,15.0,England
+347,Giannelli Imbula,Stoke+City,24,12.0,France
+348,Jack Butland,Stoke+City,24,15.0,England
+349,Ibrahim Afellay,Stoke+City,31,3.0,Netherlands
+350,Josh Tymon,Stoke+City,18,1.0,England
+351,Gylfi Sigurdsson,Swansea,27,25.0,Iceland
+352,Fernando Llorente,Swansea,32,6.0,Spain
+353,Åukasz FabiaÅ„ski,Swansea,32,9.0,Poland
+354,Leroy Fer,Swansea,27,8.0,Netherlands
+355,Alfie Mawson,Swansea,23,6.0,England
+356,Kyle Naughton,Swansea,28,5.0,England
+357,Wayne Routledge,Swansea,32,2.5,England
+358,Federico Fernandez,Swansea,28,9.0,Argentina
+359,Martin Olsson,Swansea,29,5.0,Sweden
+360,Tom Carroll,Swansea,25,6.0,England
+361,Ki Sung-yueng,Swansea,28,7.0,South Korea
+362,Jordan Ayew,Swansea,25,7.5,Ghana
+363,Modou Barrow,Swansea,24,3.0,The Gambia
+364,Leon Britton,Swansea,34,1.0,England
+365,Stephen Kingsley,Swansea,22,0.75,Scotland
+366,Ã€ngel Rangel,Swansea,34,1.0,Spain
+367,Luciano Narsingh,Swansea,26,5.0,Netherlands
+368,Jay Fulton,Swansea,23,0.5,Scotland
+369,Jefferson Montero,Swansea,27,4.5,Ecuador
+370,Mike van der Hoorn,Swansea,24,2.0,Netherlands
+371,Nathan Dyer,Swansea,29,3.5,England
+372,Oliver McBurnie,Swansea,21,0.25,Scotland
+373,Kristoffer Nordfeldt,Swansea,28,1.5,Sweden
+374,Roque Mesa,Swansea,28,12.0,Spain
+375,Tammy Abraham,Swansea,19,8.0,England
+376,Dele Alli,Tottenham,21,45.0,England
+377,Harry Kane,Tottenham,23,60.0,England
+378,Christian Eriksen,Tottenham,25,40.0,Denmark
+379,Son Heung-min,Tottenham,25,30.0,South Korea
+380,Hugo Lloris,Tottenham,30,24.0,France
+381,Jan Vertonghen,Tottenham,30,28.0,Belgium
+382,Toby Alderweireld,Tottenham,28,35.0,Belgium
+383,Victor Wanyama,Tottenham,26,25.0,Kenya
+384,Eric Dier,Tottenham,23,25.0,England
+385,Ben Davies,Tottenham,24,12.0,Wales
+386,Danny Rose,Tottenham,27,28.0,England
+387,Mousa Dembele,Tottenham,30,18.0,Belgium
+388,Vincent Janssen,Tottenham,23,13.0,Netherlands
+389,Kieran Trippier,Tottenham,26,10.0,England
+390,Moussa Sissokho,Tottenham,27,20.0,France
+391,Harry Winks,Tottenham,21,4.0,England
+392,Erik Lamela,Tottenham,25,25.0,Argentina
+393,Michel Vorm,Tottenham,33,4.0,Netherlands
+394,Georges-Kevin N%27Koudou,Tottenham,22,7.0,France
+395,Kevin Wimmer,Tottenham,24,7.0,Austria
+396,Ã‰tienne Capoue,Watford,29,9.0,France
+397,Troy Deeney,Watford,29,11.0,England
+398,Heurelho Gomes,Watford,36,1.0,Brazil
+399,Jose Holebas,Watford,33,2.0,Greece
+400,Miguel Britos,Watford,32,3.5,Uruguay
+401,Sebastian Prodl,Watford,30,4.0,Austria
+402,Nordin Amrabat,Watford,30,4.5,Morocco
+403,YounÃ¨s Kaboul,Watford,31,2.5,France
+404,Tom Cleverley,Watford,27,8.0,England
+405,Daryl Janmaat,Watford,27,7.0,Netherlands
+406,Valon Behrami,Watford,32,2.5,Switzerland
+407,Roberto Pereyra,Watford,26,15.0,Argentina
+408,Stefano Okaka,Watford,27,6.0,Italy
+409,Abdoulaye Doucoure,Watford,24,6.0,France
+410,Kabasele,Watford,26,5.5,Belgium
+411,Craig Cathcart,Watford,28,4.0,Northern Ireland
+412,Isaac Success,Watford,21,4.0,Nigeria
+413,Adrian Mariappa,Watford,30,1.0,Jamaica
+414,Nathaniel Chalobah,Watford,22,5.0,England
+415,Mauro Zarate,Watford,30,2.0,Argentina
+416,Costel Pantilimon,Watford,30,3.0,Romania
+417,Kiko Femenia,Watford,26,4.0,Spain
+418,Steven Berghuis,Watford,25,5.5,Netherlands
+419,Will Hughes,Watford,22,8.0,England
+420,Gareth McAuley,West+Brom,37,1.0,Northern Ireland
+421,Salomon Rondon,West+Brom,27,15.0,Venezuela
+422,Matt Phillips,West+Brom,26,9.0,Scotland
+423,Ben Foster,West+Brom,34,4.0,England
+424,Nacer Chadli,West+Brom,27,15.0,Belgium
+425,Craig Dawson,West+Brom,27,6.0,England
+426,Chris Brunt,West+Brom,32,4.0,Northern Ireland
+427,James Morrison,West+Brom,31,5.0,Scotland
+428,Jonny Evans,West+Brom,29,7.0,Northern Ireland
+429,Jake Livermore,West+Brom,27,7.0,England
+430,Allan Nyom,West+Brom,29,4.5,Cameroon
+431,Jay Rodriguez,West+Brom,27,10.0,England
+432,Claudio Yacob,West+Brom,30,4.0,Argentina
+433,James McClean,West+Brom,28,3.0,Ireland
+434,Hal Robson-Kanu,West+Brom,28,2.5,Wales
+435,Jonathan Leko,West+Brom,18,1.5,England
+436,Sam Field,West+Brom,19,0.25,England
+437,Boaz Myhill,West+Brom,34,1.5,Wales
+438,Ahmed Hegazy,West+Brom,26,1.0,Egypt
+439,Robert Snodgrass,West+Ham,29,8.0,Scotland
+440,Manuel Lanzini,West+Ham,24,15.0,Argentina
+441,Michail Antonio,West+Ham,27,18.0,England
+442,Winston Reid,West+Ham,29,10.0,New Zealand
+443,Jose Fonte,West+Ham,33,7.0,Portugal
+444,Andre Ayew,West+Ham,27,18.0,Ghana
+445,Cheikhou Kouyate,West+Ham,27,12.0,Senegal
+446,Mark Noble,West+Ham,30,7.0,England
+447,Darren Randolph,West+Ham,30,2.5,Ireland
+448,James Collins,West+Ham,33,2.0,Wales
+449,Andy Carroll,West+Ham,28,10.0,England
+450,Adrian,West+Ham,30,8.0,Spain
+451,Aaron Cresswell,West+Ham,27,12.0,England
+452,Pedro Obiang,West+Ham,25,9.0,Spain
+453,Sofiane Feghouli,West+Ham,27,12.0,Algeria
+454,Angelo Ogbonna,West+Ham,29,9.0,Italy
+455,Pablo Zabaleta,West+Ham,32,7.0,Argentina
+456,Edimilson Fernandes,West+Ham,21,5.0,Switzerland
+457,Arthur Masuaku,West+Ham,23,7.0,Congo DR
+458,Sam Byram,West+Ham,23,4.5,England
+459,Ashley Fletcher,West+Ham,21,1.0,England
+460,Diafra Sakho,West+Ham,27,10.0,Senegal
